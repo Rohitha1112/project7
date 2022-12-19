@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://black-ground-018f03d00.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** -https://youtu.be/upEff3o6clg 
 
 ## Azure technologies used for Project
 
