@@ -1,8 +1,8 @@
 # ✨  Interior Floor ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for interior floor related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based interior floor application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://black-ground-018f03d00.2.azurestaticapps.net/
@@ -49,7 +49,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (529)](https://user-images.githubusercontent.com/117892141/205899606-57d52cf6-7c6d-4fc3-80bb-c2f5f9b43f77.png)
 ![Screenshot (530)](https://user-images.githubusercontent.com/117892141/205899616-d641bb06-27c0-4c99-a883-374c965b770e.png)
 
-### chat bot
+### Health bot
 ![Screenshot (531)](https://user-images.githubusercontent.com/117892141/205899847-89aa3a89-451c-4fa0-a223-9f606496c7ce.png)
 
 ## Tech Stack 
@@ -58,4 +58,5 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
+- BOOTSTRAP
 
