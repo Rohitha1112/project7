@@ -1,6 +1,6 @@
 # ✨  Interior Floor ✨
 
-This is a web based application developed for interior floor related based website in india
+This is a web based Interior Floor based application developed for interior floor related based website in india
 
 ### This web based interior floor application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -21,7 +21,7 @@ This is a web based application developed for interior floor related based websi
 - Has collection of many web pages including Home, About Us, Contact, Menu, chairs topics and interior and furniture related information etc.
 - User can know about interior and furniture information through this website.
 - Included the feedback Survey form to increase the scope of improvement
-
+- we provide Healthbot for more information.
 ## Screenshots
   
 ![image](https://user-images.githubusercontent.com/117892141/212457554-a388fadf-9e9e-40f5-b62e-ef9b0dcf1490.png)
